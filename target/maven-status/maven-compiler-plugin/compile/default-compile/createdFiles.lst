@@ -1,0 +1,7 @@
+com\example\artifacteverisdarmytasksms\TaskController.class
+com\example\artifacteverisdarmytasksms\Task.class
+com\example\artifacteverisdarmytasksms\TaskRepository.class
+com\example\artifacteverisdarmytasksms\SpringBootDockerController.class
+com\example\artifacteverisdarmytasksms\Task$TaskRepository.class
+com\example\artifacteverisdarmytasksms\ArtifactEverisDarMytasksMsApplication.class
+com\example\artifacteverisdarmytasksms\TaskService.class
